@@ -13,7 +13,7 @@ export const PROGRAM_ID = new PublicKey("7vfAZgrKyYV2e3XTKuwisXfVcdSY7vMZ7N5m6pp
 
 
 export const OLD_TOKEN = new PublicKey("Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN");
-export const NEW_TOKEN = new PublicKey("FxiQg645pMgnyebiVS9D2h2eo5vnQPA7Au43JNm8kToU");
+export const NEW_TOKEN = new PublicKey("8UQ8M4VMpHi24pckEUnMxPRwTjy8szSAecFQ1cvQTVo8");
 
 // export const solConnection = new anchor.web3.Connection(
 //   "https://solana-mainnet.g.alchemy.com/v2/rOf-NrWf8l6Rk5aOJJ8CdqKbpLGxChQk"
